@@ -1,14 +1,12 @@
-import { Noto_Kufi_Arabic } from "next/font/google"
-
+import { Noto_Kufi_Arabic } from "next/font/google";
 
 const RegisterPage = () => {
-    return (
-        <div>
+  return (
+    <div>
+      <h1>Register Page</h1>
+      <p>التسجيل</p>
+    </div>
+  );
+};
 
-            <h1>Register Page</h1>
-            <p>التسجيل</p>
-        </div>
-    )
-}
-
-export default RegisterPage
+export default RegisterPage;

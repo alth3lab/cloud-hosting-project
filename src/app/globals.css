@@ -3,18 +3,15 @@
 @tailwind utilities;
 
 :root {
-   --bg-color: #efefef;
-
+  --bg-color: #efefef;
 }
 
-
 body {
-   background: var(--bg-color);
-
+  background: var(--bg-color);
 }
 
 * {
-   padding: 0;
-   margin: 0;
-   box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
